@@ -33,7 +33,8 @@
     "webpack-cli": "^3.3.11"
   },
   "dependencies": {
-    "browser-sync": "^2.26.7"
+    "browser-sync": "^2.26.7",
+    "reset-css": "^5.0.1"
   },
   "browserslist": [
     "> 1%",
